@@ -3,8 +3,7 @@
 
 [LIVE DEMO](https://money-manage-12.netlify.app/)
 
-![Screenshot of Money Manager](Screenshot 2025-04-04 103452.png)
-
+![SCREENSHOT](https://github.com/KashishMahajan1203/Money-Manager/blob/main/Screenshot%202025-04-04%20103452.png)
 
 
 ## 🚀 Overview
